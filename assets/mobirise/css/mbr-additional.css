@@ -5490,7 +5490,7 @@ section.lazy-placeholder:after {
   transition: 0.2s opacity ease-in-out;
 }
 .cid-tnZmp1e5iu .mbr-gallery-item > div:hover::before {
-  opacity: 0 !important;
+  opacity: 0.1 !important;
 }
 .cid-tnZmp1e5iu .mbr-gallery-title {
   transition: all .3s;
